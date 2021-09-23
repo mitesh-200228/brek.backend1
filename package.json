@@ -5,6 +5,9 @@
   "repository": "https://github.com/mitesh-200228/brek.backend.git",
   "author": "Mitesh <miteshbediya1999@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
   "dependencies": {
     "axios": "^0.21.1",
     "bcrypt": "^5.0.1",
